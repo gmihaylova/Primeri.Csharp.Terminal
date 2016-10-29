@@ -10,11 +10,24 @@ namespace ReadFromCommandLine
 			int a = 5, b = 0;
 
 			//Въвеждане на входни параметри
-			Console.Write ( "Моля въведете a: " );
-			b = Convert.ToInt32 ( Console.ReadLine () );
+			Console.Write ("Моля въведете a: ");
+			b = Convert.ToInt32 (Console.ReadLine ());
 
 			//Печат на резултат
-			Console.WriteLine ( "Резултата a + b е " + ( a + b ).ToString () + "\n\n\n");
+			Console.WriteLine ("Резултата a + b е " + (a + b).ToString () + "\n\n\n");
+	
+			
+			string test = "1";
+			test += ", 2";
+			test += ", 3";
+			test += ", 4";
+			test += ", 5";
+			Console.WriteLine ("Събиране с += : " + test + "\n");
+			test = test.Replace (", ",";");
+			Console.WriteLine ("Работа с Replace: " + test + "\n");
 		}
+
 	}
 }
+
+
