@@ -1,0 +1,4 @@
+D:\AULA\primeri.csharp.terminal\Modul03\BoolExplore\bin\Debug\BoolExplore.exe
+D:\AULA\primeri.csharp.terminal\Modul03\BoolExplore\bin\Debug\BoolExplore.pdb
+D:\AULA\primeri.csharp.terminal\Modul03\BoolExplore\obj\x86\Debug\BoolExplore.exe
+D:\AULA\primeri.csharp.terminal\Modul03\BoolExplore\obj\x86\Debug\BoolExplore.pdb
