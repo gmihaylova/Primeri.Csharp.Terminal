@@ -14,7 +14,7 @@ namespace BoolExplore
 			bool _check02 = _ui > 0;
 			Console.WriteLine ( _check01 );
 			Console.WriteLine ( _check02 );
-			Console.WriteLine (_i [_ui - 1]);
+			Console.WriteLine (_i [ _ui - 1] );
 
 
 			Console.WriteLine ("Hello World!");
